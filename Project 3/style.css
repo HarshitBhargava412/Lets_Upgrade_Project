@@ -68,36 +68,3 @@ body {
     display: flex;
     align-items: center;
 }
-
-@media (min-width: 436px) {
-    .card {
-        max-width: 680px;
-    }
-
-    .button {
-        height: 55px;
-        width: 55px;
-    }
-
-    .icon {
-        width: 2.5em;
-        height: 2.5em;
-    }
-
-    .search-bar {
-        font-size: 120%;
-    }
-
-    .city {
-        font-size: 54px;
-    }
-
-    .temp {
-        font-size: 44px;
-        margin-bottom: 15px;
-    }
-
-    .weather {
-        font-size: 30px;
-    }
-}
